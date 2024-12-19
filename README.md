@@ -41,14 +41,16 @@ Page Series :
 ![image](https://github.com/user-attachments/assets/d8ad30c1-8772-42a4-a6e6-dc9ddde1505b)
 
 Page Detail : 
-![image](https://github.com/user-attachments/assets/2818df92-9230-436a-a752-d121141e6f1c)
+![image](https://github.com/user-attachments/assets/a6b689e5-035f-4caf-a099-279b508ae35a)
+
 
 Page Contact : 
-![image](https://github.com/user-attachments/assets/7f3f3651-33d1-46ae-b52d-47fef6c1a79a)
-![image](https://github.com/user-attachments/assets/e42a26b9-8d71-48ef-9df5-7e3dae3f21bf)
+![image](https://github.com/user-attachments/assets/e9cc9660-c7d8-43be-8870-e4c584ec1bdf)
+![image](https://github.com/user-attachments/assets/75a2ad2a-5f8d-47a5-bf59-33025fa516ee)
 
-
-
+Page Favorite : 
+![image](https://github.com/user-attachments/assets/2a2da291-2779-4949-9423-040383d9c0bc)
+![image](https://github.com/user-attachments/assets/9b6f722d-a73e-4f54-923b-1b845232861a)
 
 Perspectives : 
 - Add more reliable media queries, especially on Detail page to improve the webpage responsivity.
