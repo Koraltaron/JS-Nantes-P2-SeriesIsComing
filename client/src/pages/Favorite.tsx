@@ -49,7 +49,12 @@ function Favorite() {
             </div>
           ))
         ) : (
-          <p>pouet</p>
+          <section className="no-favorite-section">
+            <h3>Aucun personnage n'a été ajouté dans la section favoris !</h3>
+            <NavLink to={"/"}>
+              <button type="button">Retour sur la page d'accueil</button>
+            </NavLink>
+          </section>
         )}
       </section>
     </div>

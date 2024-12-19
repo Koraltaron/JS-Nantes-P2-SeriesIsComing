@@ -31,3 +31,29 @@
   padding: 10px;
   color: black;
 }
+
+.no-favorite-section {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 20px 0;
+  align-items: center;
+
+  & h3 {
+    font-size: 28px;
+    font-family: var(--main-background-color);
+  }
+
+  & button {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    border: solid 0px;
+    box-shadow: rgba(222, 222, 222, 0.24) 0px 3px 8px;
+    font-family: var(--main-background-color);
+  }
+
+  & button:hover {
+    cursor: pointer;
+  }
+}
