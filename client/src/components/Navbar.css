@@ -108,7 +108,7 @@ nav ul li:hover {
 .navbar-title {
   text-decoration: none;
   text-align: center;
-  color: #000;
+  color: black;
   position: relative;
 }
 
@@ -119,7 +119,7 @@ nav ul li:hover {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background-color: #000;
+  background-color: black;
   transition: 0.4s width;
 }
 
@@ -129,11 +129,11 @@ nav ul li:hover {
 }
 
 .series-drop {
-  color: #000;
+  color: black;
 }
 
 .title {
-  color: var(--main-background-color);
+  color: black;
 }
 
 /* Media Queries */

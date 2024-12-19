@@ -26,7 +26,7 @@ function Detail() {
           </div>
           <section className="card-center">
             <hgroup>
-              <h2> Prenom </h2>
+              <h2> Prénom </h2>
               <p>{data.firstName}</p>
             </hgroup>
             <hgroup>

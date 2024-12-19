@@ -26,7 +26,7 @@ function ContactUs() {
 
   return (
     <section className="section-contact-us">
-      <h2>Contact nous via le forumlaire ci-dessous</h2>
+      <h2>Contacte-nous via le forumlaire ci-dessous</h2>
       <form onSubmit={onSubmit} id="form-contact">
         <input
           className="user-input"
