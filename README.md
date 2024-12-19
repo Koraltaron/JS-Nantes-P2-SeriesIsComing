@@ -31,6 +31,25 @@ Screenshots :
 
 Desktop version :
 
+Page Home : 
+![image](https://github.com/user-attachments/assets/52b4b58e-7b2a-4b08-9bd9-56a8c9e7f109)
+![image](https://github.com/user-attachments/assets/ae6a1319-c035-4530-a1ac-de2d6d5d0074)
+
+Page Series : 
+![image](https://github.com/user-attachments/assets/57d018bc-973c-4334-993c-920931b24aad)
+![image](https://github.com/user-attachments/assets/0721c3ba-c27c-47f8-8eb3-32e75fe16c7e)
+![image](https://github.com/user-attachments/assets/d8ad30c1-8772-42a4-a6e6-dc9ddde1505b)
+
+Page Detail : 
+![image](https://github.com/user-attachments/assets/2818df92-9230-436a-a752-d121141e6f1c)
+
+Page Contact : 
+![image](https://github.com/user-attachments/assets/7f3f3651-33d1-46ae-b52d-47fef6c1a79a)
+![image](https://github.com/user-attachments/assets/e42a26b9-8d71-48ef-9df5-7e3dae3f21bf)
+
+
+
+
 Perspectives : 
 - Add more reliable media queries, especially on Detail page to improve the webpage responsivity.
 - Using a reliable database of series Characters instead of fetching a moke API and add more keys to add relevant filter options for other series than Game of Thrones.
