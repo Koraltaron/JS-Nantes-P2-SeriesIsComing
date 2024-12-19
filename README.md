@@ -41,8 +41,7 @@ Page Series :
 ![image](https://github.com/user-attachments/assets/d8ad30c1-8772-42a4-a6e6-dc9ddde1505b)
 
 Page Detail : 
-![image](https://github.com/user-attachments/assets/a6b689e5-035f-4caf-a099-279b508ae35a)
-
+![image](https://github.com/user-attachments/assets/4dbe1211-a50c-4a90-b0af-16b1c8f4c473)
 
 Page Contact : 
 ![image](https://github.com/user-attachments/assets/e9cc9660-c7d8-43be-8870-e4c584ec1bdf)
