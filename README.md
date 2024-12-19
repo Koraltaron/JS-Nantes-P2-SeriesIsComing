@@ -45,8 +45,8 @@ Page Detail :
 
 
 Page Contact : 
-![image](https://github.com/user-attachments/assets/7f3f3651-33d1-46ae-b52d-47fef6c1a79a)
-![image](https://github.com/user-attachments/assets/e42a26b9-8d71-48ef-9df5-7e3dae3f21bf)
+![image](https://github.com/user-attachments/assets/e9cc9660-c7d8-43be-8870-e4c584ec1bdf)
+![image](https://github.com/user-attachments/assets/75a2ad2a-5f8d-47a5-bf59-33025fa516ee)
 
 Page Favorite : 
 ![image](https://github.com/user-attachments/assets/2a2da291-2779-4949-9423-040383d9c0bc)
