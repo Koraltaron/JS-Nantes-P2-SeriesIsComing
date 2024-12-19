@@ -9,6 +9,22 @@
   gap: 50px;
 }
 
+.button-remove-fav {
+  width: 50px;
+  position: relative;
+  top: -35px;
+  left: 10px;
+  font-size: 18px;
+}
+
+.button-remove-fav:hover {
+  cursor: pointer;
+}
+
+.card-fav:hover {
+  opacity: 0.75;
+}
+
 .card-fav {
   width: 300px;
   height: 320px;
@@ -17,6 +33,7 @@
   flex-direction: column;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
   background: #fff;
+  transition: 0.3s;
 }
 
 .card-fav > img {

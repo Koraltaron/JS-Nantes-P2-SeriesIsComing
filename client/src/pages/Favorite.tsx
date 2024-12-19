@@ -40,6 +40,7 @@ function Favorite() {
               </NavLink>
               <button
                 type="button"
+                className="button-remove-fav"
                 onClick={() => {
                   removeFavorite(el.firstName);
                 }}
